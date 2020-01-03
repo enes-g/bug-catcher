@@ -1,0 +1,94 @@
+23-12-2019 12:07:37.873 [Gauge] [INFO] Watching directory: C:\Users\enes.gonul\IdeaProjects\iddaa_auto\specs
+23-12-2019 12:07:37.880 [Gauge] [DEBUG] Found 1 files
+23-12-2019 12:07:37.916 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+23-12-2019 12:07:37.922 [Gauge] [INFO] Initializing specs cache with 1 specs
+23-12-2019 12:07:37.922 [Gauge] [DEBUG] Adding specs from C:\Users\enes.gonul\IdeaProjects\iddaa_auto\specs\example.spec
+23-12-2019 12:07:37.922 [Gauge] [INFO] Initializing steps cache with 1 steps
+23-12-2019 12:07:37.922 [Gauge] [INFO] Gauge daemon initialized and listening on port: 59246
+23-12-2019 12:07:48.858 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+23-12-2019 12:07:48.870 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+23-12-2019 12:07:49.520 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+23-12-2019 12:07:49.520 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+23-12-2019 12:07:50.206 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+23-12-2019 12:07:50.206 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+23-12-2019 16:05:04.345 [Gauge] [INFO] Spec file added / modified: C:\Users\enes.gonul\IdeaProjects\iddaa_auto\specs\example.spec
+23-12-2019 16:05:04.350 [Gauge] [INFO] Spec file added / modified: C:\Users\enes.gonul\IdeaProjects\iddaa_auto\specs\example.spec
+23-12-2019 16:05:04.659 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:04.661 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:04.673 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:04.673 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:04.683 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:04.683 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:04.688 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:04.688 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:04.691 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:04.691 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:04.824 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:04.824 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:04.825 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:04.825 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:04.826 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:04.826 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:04.827 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:04.827 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:05.600 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:05.600 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:05.615 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:05.616 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:05.635 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:05.635 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:05.640 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:05.640 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:05.640 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:05.641 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:05.719 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:05.719 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:05.719 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:05.719 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:05.751 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:05.751 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:05.752 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:05.752 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:06.423 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-12-2019 16:05:06.423 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > allSteps:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > allSteps:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+23-12-2019 16:05:06.428 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-12-2019 16:05:06.428 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-12-2019 16:05:06.673 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"po" > 
+23-12-2019 16:05:06.673 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"po" parameterizedStepValue:"po" > > 
+23-12-2019 16:05:07.278 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:07.278 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:07.308 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:07.308 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:07.313 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:07.313 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:07.315 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:07.315 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:07.316 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:07.316 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:07.399 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:07.400 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:07.400 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:07.400 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:07.429 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:07.429 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:07.429 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-12-2019 16:05:07.429 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-12-2019 16:05:07.894 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-12-2019 16:05:07.894 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > allSteps:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > allSteps:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+23-12-2019 16:05:07.894 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-12-2019 16:05:07.894 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-12-2019 16:05:15.237 [Gauge] [INFO] Spec file added / modified: C:\Users\enes.gonul\IdeaProjects\iddaa_auto\specs\example.spec
+23-12-2019 16:05:15.239 [Gauge] [INFO] Spec file added / modified: C:\Users\enes.gonul\IdeaProjects\iddaa_auto\specs\example.spec
+03-01-2020 11:12:33.512 [Gauge] [INFO] Watching directory: C:\Users\enes.gonul\IdeaProjects\iddaa_auto\specs
+03-01-2020 11:12:33.516 [Gauge] [DEBUG] Found 1 files
+03-01-2020 11:12:33.534 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+03-01-2020 11:12:33.536 [Gauge] [INFO] Initializing specs cache with 1 specs
+03-01-2020 11:12:33.536 [Gauge] [DEBUG] Adding specs from C:\Users\enes.gonul\IdeaProjects\iddaa_auto\specs\example.spec
+03-01-2020 11:12:33.536 [Gauge] [INFO] Initializing steps cache with 1 steps
+03-01-2020 11:12:33.536 [Gauge] [INFO] Gauge daemon initialized and listening on port: 62868
+03-01-2020 11:12:35.686 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+03-01-2020 11:12:35.689 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+03-01-2020 11:12:35.700 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+03-01-2020 11:12:35.700 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+03-01-2020 11:12:35.702 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+03-01-2020 11:12:35.702 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
